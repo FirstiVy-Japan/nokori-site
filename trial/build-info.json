@@ -1,8 +1,8 @@
 {
-  "sourceSha": "ceca4e6d048cbe7cb649dab592bfe0fd2e9913f0",
+  "sourceSha": "2f22af258a1364659335407318a34d551411af2b",
   "basePath": "/nokori-site/trial",
   "profile": "normal-web-trial",
-  "builtAt": "2026-10-18T06:19:39.983Z",
+  "builtAt": "2026-10-18T09:31:41.897Z",
   "routes": [
     "/",
     "/(tabs)/fridge",
@@ -30,19 +30,19 @@
       "sha256": "35690ffc9fdaada915cbeb62b9763ea1cd4479aaa811c5b467a73fc1a67744bd"
     },
     {
-      "path": "_expo/static/js/web/entry-9404caf329acc5f20a29eb99f2c5a406.js",
-      "bytes": 3314928,
-      "sha256": "0d02d4ada761696790f3bc894dc58613b9bef32e75c1547a447a7e72cc432743"
+      "path": "_expo/static/js/web/entry-bcaad2453ec7d81b663da94e63ce8506.js",
+      "bytes": 3319766,
+      "sha256": "36389b3e15b775fd097cf6df2dc1728dacd1dfda596e0865590e2c04d305c236"
     },
     {
       "path": "_sitemap.html",
       "bytes": 17524,
-      "sha256": "afa1d80ada473415da11d4e54a89f49cd854d5147204a1dfdedcccb526780b2a"
+      "sha256": "a5ce709ed5be78fbda2d21f0f1e877d9b3b289d682abfb98b04ce20210257874"
     },
     {
       "path": "_sitemap/index.html",
       "bytes": 17524,
-      "sha256": "afa1d80ada473415da11d4e54a89f49cd854d5147204a1dfdedcccb526780b2a"
+      "sha256": "a5ce709ed5be78fbda2d21f0f1e877d9b3b289d682abfb98b04ce20210257874"
     },
     {
       "path": ".nojekyll",
@@ -52,62 +52,62 @@
     {
       "path": "(tabs)/fridge.html",
       "bytes": 34729,
-      "sha256": "b910a0716d060cb2b1490ddbff024b9a0d3da7b09590b7d26092bbfe519435eb"
+      "sha256": "e433825b83f1bcb0e26422314eac6bf1bd5cd56566b4799ea5f3e21b77062e88"
     },
     {
       "path": "(tabs)/fridge/index.html",
       "bytes": 34729,
-      "sha256": "b910a0716d060cb2b1490ddbff024b9a0d3da7b09590b7d26092bbfe519435eb"
+      "sha256": "e433825b83f1bcb0e26422314eac6bf1bd5cd56566b4799ea5f3e21b77062e88"
     },
     {
       "path": "(tabs)/history.html",
       "bytes": 34729,
-      "sha256": "3fc36237d28a7f02810b991c580ce16301fbc850a4a25d0a96f9963bd8d64053"
+      "sha256": "6fb9dfe6a10da212fe5c4244e2ea8872383aca430af9b580e5156a08cc398114"
     },
     {
       "path": "(tabs)/history/index.html",
       "bytes": 34729,
-      "sha256": "3fc36237d28a7f02810b991c580ce16301fbc850a4a25d0a96f9963bd8d64053"
+      "sha256": "6fb9dfe6a10da212fe5c4244e2ea8872383aca430af9b580e5156a08cc398114"
     },
     {
       "path": "(tabs)/index.html",
       "bytes": 34729,
-      "sha256": "8a73eae205b4d397dac4ec67b05456172631f7b5fbd7a1bc1a10374e555b6d4a"
+      "sha256": "09dd0b4bfe095cf26ee3d4ce11d8c5f79264872ec7872b6372976608143c780a"
     },
     {
       "path": "(tabs)/index/index.html",
       "bytes": 34729,
-      "sha256": "8a73eae205b4d397dac4ec67b05456172631f7b5fbd7a1bc1a10374e555b6d4a"
+      "sha256": "09dd0b4bfe095cf26ee3d4ce11d8c5f79264872ec7872b6372976608143c780a"
     },
     {
       "path": "(tabs)/menu.html",
       "bytes": 34729,
-      "sha256": "7337fc9dedb9fcc6ee8f12746c7742759022bee0ee11a80f250b2d7a65c72f19"
+      "sha256": "b585df6820c86db4c6ba910a73e5f5307f1c92aaa2cde1d0dda6b93c57c9b8e2"
     },
     {
       "path": "(tabs)/menu/index.html",
       "bytes": 34729,
-      "sha256": "7337fc9dedb9fcc6ee8f12746c7742759022bee0ee11a80f250b2d7a65c72f19"
+      "sha256": "b585df6820c86db4c6ba910a73e5f5307f1c92aaa2cde1d0dda6b93c57c9b8e2"
     },
     {
       "path": "(tabs)/shopping.html",
       "bytes": 34729,
-      "sha256": "83a8a4954a43f12686f91d6fc7f9b220b12783becb8057bfc030d0ca10946825"
+      "sha256": "0bceb7130afe78c115729f53286577231cebd91ae5a2b32994aaccc0c6097c2d"
     },
     {
       "path": "(tabs)/shopping/index.html",
       "bytes": 34729,
-      "sha256": "83a8a4954a43f12686f91d6fc7f9b220b12783becb8057bfc030d0ca10946825"
+      "sha256": "0bceb7130afe78c115729f53286577231cebd91ae5a2b32994aaccc0c6097c2d"
     },
     {
       "path": "+not-found.html",
       "bytes": 17524,
-      "sha256": "afa1d80ada473415da11d4e54a89f49cd854d5147204a1dfdedcccb526780b2a"
+      "sha256": "a5ce709ed5be78fbda2d21f0f1e877d9b3b289d682abfb98b04ce20210257874"
     },
     {
       "path": "+not-found/index.html",
       "bytes": 17524,
-      "sha256": "afa1d80ada473415da11d4e54a89f49cd854d5147204a1dfdedcccb526780b2a"
+      "sha256": "a5ce709ed5be78fbda2d21f0f1e877d9b3b289d682abfb98b04ce20210257874"
     },
     {
       "path": "assets/assets/pet-test/chick-test.db14046f2d969f4a558f3730827103a7.png",
@@ -307,57 +307,57 @@
     {
       "path": "fridge.html",
       "bytes": 34729,
-      "sha256": "b2dd28b59c7376e85fbcadce38d575029a5f90ae0a50098e1e54d37347729e20"
+      "sha256": "6aca5d2158e1d3cee78d45a87b1c3e03eed520183f013a9d410d96b3baa2cc5e"
     },
     {
       "path": "fridge/index.html",
       "bytes": 34729,
-      "sha256": "b2dd28b59c7376e85fbcadce38d575029a5f90ae0a50098e1e54d37347729e20"
+      "sha256": "6aca5d2158e1d3cee78d45a87b1c3e03eed520183f013a9d410d96b3baa2cc5e"
     },
     {
       "path": "history.html",
       "bytes": 34729,
-      "sha256": "f0c3ccf3b4a1af7ae03cfde95d1abcd1a8950ce854b4804af1f9bbd01341af2b"
+      "sha256": "1f0475c98ebc8086d16677beae6ef025c9a93b71fcfea963e9b87f912ccfbcc8"
     },
     {
       "path": "history/index.html",
       "bytes": 34729,
-      "sha256": "f0c3ccf3b4a1af7ae03cfde95d1abcd1a8950ce854b4804af1f9bbd01341af2b"
+      "sha256": "1f0475c98ebc8086d16677beae6ef025c9a93b71fcfea963e9b87f912ccfbcc8"
     },
     {
       "path": "index.html",
       "bytes": 34729,
-      "sha256": "983fdb8b0f0a0a84ae54e2d348f427376ebd991da405edb01b589cf51c821cf3"
+      "sha256": "9fa9513e22f85d23541f6a05dc30b0546bcf16fd9e29c20427afec9a68795ce7"
     },
     {
       "path": "menu.html",
       "bytes": 34729,
-      "sha256": "18480f309700c4ee37a0e289e40f9ab6ace4929811104f7c940ed8ddaa5a7b57"
+      "sha256": "920b4c77438c88d37b509927d8809afe15cceb3fa6f4a31a10c7981bd6da6721"
     },
     {
       "path": "menu/index.html",
       "bytes": 34729,
-      "sha256": "18480f309700c4ee37a0e289e40f9ab6ace4929811104f7c940ed8ddaa5a7b57"
+      "sha256": "920b4c77438c88d37b509927d8809afe15cceb3fa6f4a31a10c7981bd6da6721"
     },
     {
       "path": "phase1-preview.html",
       "bytes": 17558,
-      "sha256": "268a6cc02cdeefc2ac2eb14e54d7ead7d9c0bece73ad7c93deeafb4b009a27b3"
+      "sha256": "ec261f76cf1018fc136c15bbe5a592a3ba594e2ba669516c7b2c90d5dff94daf"
     },
     {
       "path": "phase1-preview/index.html",
       "bytes": 17558,
-      "sha256": "268a6cc02cdeefc2ac2eb14e54d7ead7d9c0bece73ad7c93deeafb4b009a27b3"
+      "sha256": "ec261f76cf1018fc136c15bbe5a592a3ba594e2ba669516c7b2c90d5dff94daf"
     },
     {
       "path": "shopping.html",
       "bytes": 34729,
-      "sha256": "bd983344d0566a513612211efc5c8e555578a11684c1b773fcd075935a17e4b3"
+      "sha256": "75aba847fcf570f9722f1e1bd421ea34d76d8cd08f11abbcfcf6366fa67ceb50"
     },
     {
       "path": "shopping/index.html",
       "bytes": 34729,
-      "sha256": "bd983344d0566a513612211efc5c8e555578a11684c1b773fcd075935a17e4b3"
+      "sha256": "75aba847fcf570f9722f1e1bd421ea34d76d8cd08f11abbcfcf6366fa67ceb50"
     }
   ]
 }
